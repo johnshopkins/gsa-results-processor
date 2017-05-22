@@ -11,9 +11,9 @@ class TopLevelProcessor extends Base
     "Spelling" => "suggestions"
   );
 
-  protected function process($object)
+  public function process($object)
   {
-    if (!$object || !is_object($xml)) {
+    if (!$object || !is_object($object)) {
       throw new \Exception("Invalid object passed to TopLevelProcessor.");
     }
 
