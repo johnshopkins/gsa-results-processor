@@ -1,6 +1,6 @@
 <?php
 
-namespace GSAResultsProcessor\Processors;
+namespace GSAResultsProcessor;
 
 abstract class Base
 {

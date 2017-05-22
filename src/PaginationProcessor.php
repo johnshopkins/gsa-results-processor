@@ -1,6 +1,6 @@
 <?php
 
-namespace GSAResultsProcessor\Processors;
+namespace GSAResultsProcessor;
 
 class PaginationProcessor extends Base
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace GSAResultsProcessor\Processors;
+namespace GSAResultsProcessor;
 
 class TopLevelProcessor extends Base
 {
@@ -34,14 +34,8 @@ class TopLevelProcessor extends Base
 
   protected function process__results($object)
   {
-    $return = array();
     $processor = new ResultsProcessor();
-
-    foreach ($object as $result) {
-      $return[] = $processor->process($result);
-    }
-
-    return $return;
+    return $processor->process($object);
   }
 
   protected function process__suggestions($object)
