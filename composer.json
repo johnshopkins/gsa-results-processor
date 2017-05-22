@@ -1,0 +1,11 @@
+{
+  "name": "johnshopkins/gsa-results-processor",
+  "description": "Processes results from the Google Search Appliance (GSA) into a readable object",
+  "license": "MIT",
+  "homepage": "https://github.com/johnshopkins/gsa-results-processor",
+  "autoload": {
+    "psr-4" : {
+      "GSAResultsProcessor\\" : ["src/"]
+    }
+  }
+}
