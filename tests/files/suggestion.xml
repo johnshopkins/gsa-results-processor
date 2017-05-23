@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<GSP VER="3.2">
+<TM>0.040225</TM><Q>admissins</Q>
+<PARAM name="q" value="admissins" original_value="admissins"/>
+<PARAM name="site" value="jhuedu" original_value="jhuedu"/>
+<PARAM name="client" value="jhu_frontend" original_value="jhu_frontend"/>
+<PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd"/>
+<PARAM name="num" value="2" original_value="2"/>
+<PARAM name="ie" value="UTF-8" original_value="UTF-8"/>
+<PARAM name="ulang" value="en" original_value="en"/>
+<PARAM name="ip" value="10.171.40.21" original_value="10.171.40.21"/>
+<PARAM name="access" value="p" original_value="p"/>
+<PARAM name="sort" value="date:D:L:d1" original_value="date:D:L:d1"/>
+<PARAM name="entqr" value="3" original_value="3"/>
+<PARAM name="entqrm" value="0" original_value="0"/>
+<PARAM name="entsp" value="a__jhuedu_policy" original_value="a__jhuedu_policy"/>
+<PARAM name="wc" value="200" original_value="200"/>
+<PARAM name="wc_mc" value="1" original_value="1"/>
+<Spelling><Suggestion q="admissions">&lt;b&gt;&lt;i&gt;admissions&lt;/i&gt;&lt;/b&gt;</Suggestion></Spelling></GSP>

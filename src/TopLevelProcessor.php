@@ -8,13 +8,13 @@ class TopLevelProcessor extends Base
     "Q" => "query",
     "GM" => "keyMatches",
     "RES" => "results",
-    "Spelling" => "suggestions"
+    "Spelling" => "suggestion"
   );
 
   public function process($object)
   {
     if (!$object || !is_object($object)) {
-      throw new \Exception("Invalid object passed to TopLevelProcessor.");
+      throw new \InvalidArgumentException("Invalid object passed to TopLevelProcessor.");
     }
 
     return parent::process($object);
@@ -38,7 +38,7 @@ class TopLevelProcessor extends Base
     return $processor->process($object);
   }
 
-  protected function process__suggestions($object)
+  protected function process__suggestion($object)
   {
     return (string) $object->Suggestion->attributes()->q;
   }

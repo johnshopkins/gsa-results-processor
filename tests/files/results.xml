@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<GSP VER="3.2">
+<TM>0.049166</TM><Q>admissions</Q>
+<PARAM name="q" value="admissions" original_value="admissions"/>
+<PARAM name="site" value="jhuedu" original_value="jhuedu"/>
+<PARAM name="client" value="jhu_frontend" original_value="jhu_frontend"/>
+<PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd"/>
+<PARAM name="num" value="2" original_value="2"/>
+<PARAM name="ie" value="UTF-8" original_value="UTF-8"/>
+<PARAM name="ulang" value="en" original_value="en"/>
+<PARAM name="ip" value="10.171.40.21" original_value="10.171.40.21"/>
+<PARAM name="access" value="p" original_value="p"/>
+<PARAM name="sort" value="date:D:L:d1" original_value="date:D:L:d1"/>
+<PARAM name="entqr" value="3" original_value="3"/>
+<PARAM name="entqrm" value="0" original_value="0"/>
+<PARAM name="entsp" value="a__jhuedu_policy" original_value="a__jhuedu_policy"/>
+<PARAM name="wc" value="200" original_value="200"/>
+<PARAM name="wc_mc" value="1" original_value="1"/>
+<GM><GL>http://www.jhu.edu/admissions/</GL><GD>Admissions &amp; Aid</GD></GM><RES SN="1" EN="2">
+<M>4270</M>
+<NB><NU>/search?q=admissions&amp;num=2&amp;site=jhuedu&amp;lr=&amp;ie=UTF-8&amp;output=xml_no_dtd&amp;client=jhu_frontend&amp;access=p&amp;sort=date:D:L:d1&amp;start=2&amp;sa=N</NU>
+</NB>
+
+<R N="1"><U>http://www.hopkinsmedicine.org/som/admissions/</U><UE>http://www.hopkinsmedicine.org/som/admissions/</UE><T>Johns Hopkins School of Medicine &lt;b&gt;Admissions&lt;/b&gt;</T><RK>10</RK><ENT_SOURCE>T5-BZVGLGMCF7SBD</ENT_SOURCE><FS NAME="date" VALUE="2016-04-14"/><SCOREBIAS NAME="PatternScorer" VALUE="-2"/><SCOREBIAS NAME="ClickBoost" VALUE="1"/><SCOREBIAS NAME="UserFeedbackScorer" VALUE="1"/><S>&lt;b&gt;...&lt;/b&gt; Johns Hopkins School of Medicine &lt;b&gt;Admissions&lt;/b&gt;. &lt;b&gt;...&lt;/b&gt; Online applications, &lt;b&gt;admission&lt;/b&gt;&lt;br&gt; requirements, financial aid, even information on the benefits of &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="46k" CID="ds_LfA3gZhkJ" ENC="UTF-8"/></HAS></R><R N="2"><U>https://www.jhu.edu/admissions/</U><UE>https://www.jhu.edu/admissions/</UE><T>&lt;b&gt;Admissions&lt;/b&gt; &amp;amp; Aid | Johns Hopkins University</T><RK>10</RK><CRAWLDATE>23 May 2017</CRAWLDATE><ENT_SOURCE>T5-BZVGLGMCF7SBD</ENT_SOURCE><FS NAME="date" VALUE=""/><SCOREBIAS NAME="PatternScorer" VALUE="3"/><S>&lt;b&gt;...&lt;/b&gt; Undergraduate &lt;b&gt;Admissions&lt;/b&gt;. &lt;b&gt;...&lt;/b&gt; fall semester from August through January (through&lt;br&gt; March for transfer applicants) for undergraduate &lt;b&gt;admission&lt;/b&gt; to our &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="74k" CID="W1VnxmDZr6sJ" ENC="UTF-8"/></HAS></R></RES>
+</GSP>
