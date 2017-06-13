@@ -11,4 +11,9 @@ class ResultProcessor extends Base
     "RK" => "relevance",
     "S" => "snippet"
   );
+
+  protected function process__snippet($object)
+  {
+    return strip_tags($object, "<b><i><strong></em>");
+  }
 }
